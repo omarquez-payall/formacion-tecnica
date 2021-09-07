@@ -1,24 +1,27 @@
 # -*- coding: utf-8 -*-
 
 {
-    'name': 'Odoo Formacion Tecnica',
+    'name': 'Administracion Espacial',
     
-    'summary': """ Resumen Odoo Formacion Tecnica """,
+    'summary': """ 
+        Resumen de la Administracion Espacial 
+    """,
     
     'description': """
-        Formacion Tecnica de Odoo
-        - Aprender
-        - Disciplina
-        - Constancia
+        Organiza tu logistica para viajar a la luna
+        
+        - Datos de tu nave espacial
+        - Tripulantes 
+        - Misiones Espaciales
     """,
     
     'author': 'SIUUU',
     
     'website': 'https://www.odoo.com',
     
-    'category': 'Entrenamiento',
+    'category': 'Space',
     
-    'version': '0.0.1',
+    'version': '1.0.0',
     
     'depends': ['base'],
     
